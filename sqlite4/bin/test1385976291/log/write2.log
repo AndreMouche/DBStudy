@@ -1,0 +1,5 @@
+dataDir test1385976291/data/db2$
+total 1000 
+select 1000 cost 0.000000,speed inf,saved in test1385976291/data/db2$/data0
+total select 0
+start 1385976293 end:1385976293 cost:0
