@@ -1,5 +1,0 @@
-dataDir test1385976291/data/db1$
-total 100 
-select 100 cost 0.000000,speed inf,saved in test1385976291/data/db1$/data0
-total select 0
-start 1385976292 end:1385976292 cost:0
